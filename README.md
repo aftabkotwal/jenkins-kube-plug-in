@@ -21,7 +21,7 @@ https://hub.docker.com/r/jenkinsci/jnlp-slave/
 
 Jenkins-UI service URL ::  http://jenkins.jenkins-dev:8080
 
-Jenkins salve - jnlp [headless service URL] :: jenkins-discovery.jenkins-dev
+Jenkins salve - jnlp [headless service URL] :: jenkins-discovery.jenkins-dev:50000
 
 
 
