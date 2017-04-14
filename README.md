@@ -22,7 +22,7 @@ Arguments to pass to the command :: ${computer.jnlpmac} ${computer.name}
 
 ========================================================================================================================================
 
-Kube-Plugin Global Configuaration
+Kube-Plugin Global Configuaration \n
 Cloud
 Kubernetes
 Name : RelianceJioKubernetes
